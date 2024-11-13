@@ -29,3 +29,6 @@ Visualisation 📊 : L'arbre est affiché pour montrer comment les transformatio
 📈 Résultat
 L'arbre de décision montre comment différentes caractéristiques influencent la transformation d'un personnage. Vous pouvez explorer les différentes branches pour comprendre les conditions qui mènent à chaque transformation.
 
+![image](https://github.com/user-attachments/assets/52379e6a-c601-4673-9aa0-11c90952ef84)
+
+
